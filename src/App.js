@@ -8,7 +8,7 @@ function App() {
 
   const updateFact = () => {
     //update the fact field
-    fetch(`http://numbersapi.com/${number}/trivia?json&notfound=${direction}`)
+    fetch(`https://numbersapi.com/${number}/trivia?json&notfound=${direction}`)
       .then(resp => resp.json())
       .then(data => {
         console.log(data);
