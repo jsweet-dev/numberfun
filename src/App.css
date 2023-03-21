@@ -2,6 +2,19 @@
   text-align: center;
 }
 
+#number {
+  height: 50px;
+  width: 500px;
+  font-size: 3rem;
+  text-align: center;
+}
+
+#factDisplay {
+  height: 100px;
+  width: 60vw;
+
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -14,7 +27,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #4a76ce;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
