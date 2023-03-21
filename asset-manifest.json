@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/numberfun/static/css/main.0590a6db.css",
-    "main.js": "/numberfun/static/js/main.fed0aea6.js",
+    "main.js": "/numberfun/static/js/main.b02b2d26.js",
     "index.html": "/numberfun/index.html",
     "main.0590a6db.css.map": "/numberfun/static/css/main.0590a6db.css.map",
-    "main.fed0aea6.js.map": "/numberfun/static/js/main.fed0aea6.js.map"
+    "main.b02b2d26.js.map": "/numberfun/static/js/main.b02b2d26.js.map"
   },
   "entrypoints": [
     "static/css/main.0590a6db.css",
-    "static/js/main.fed0aea6.js"
+    "static/js/main.b02b2d26.js"
   ]
 }
